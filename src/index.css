@@ -1,0 +1,50 @@
+*{
+    background-color: antiquewhite;
+    padding: 0px;
+    margin:0px;
+}
+
+
+
+.karthika{
+     text-align: center;
+    font-family:fantasy;
+    color:rgb(221, 21, 21);
+     font-size: 30px;
+    text-decoration: underline;
+    margin-top: 20px;
+    /* background: rgba(0, 0, 0,.02)rgba(0,0,0,.31),url(top linear-gradient()); */
+    background:linear-gradient(to top ,black,transparent); 
+    background-size: cover;
+    padding:0px 100px 100px 100px;
+  
+
+}
+ 
+.date{
+    background-color: rgba(194, 139, 93, 0.966);
+    padding: 20px 20px;
+    font-size:22px;
+    display: inline-block;
+    border-radius: 8px;
+    margin-top: 12px;
+
+} 
+.list,li{
+    font-size: 18px;
+    margin:10px 12px;
+    color: rgb(9, 93, 228);
+}
+.list1{
+    transform:translateX(200px );
+    color: rgb(5, 90, 209);
+    
+}
+    
+    
+    
+    
+    
+    
+    
+    
